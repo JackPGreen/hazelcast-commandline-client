@@ -1,6 +1,6 @@
 # Hazelcast CLC
 
-Hazelcast CLC is a command line tool that enables developers to use Hazelcast data structures, run SQL queries, scaffold projects, manage Viridian clusters and more.
+Hazelcast CLC is a command line tool that enables developers to use Hazelcast data structures, run SQL queries, scaffold projects, manage Hazelcast Cloud clusters and more.
 
 Apart from this README, this repository contains:
 * [Examples](https://github.com/hazelcast/hazelcast-commandline-client/blob/main/examples) to get you started with various features of CLC.
